@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: f71c4ec5b34731f4687cf7197d9b596a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2967278669339261530
+    second: effireDG_0
+  - first:
+      213: 2245514151440741415
+    second: effireDG_1
+  - first:
+      213: -2641294701917320670
+    second: effireDG_2
+  - first:
+      213: 5578090832267886943
+    second: effireDG_3
+  - first:
+      213: -863454901458260996
+    second: effireDG_4
+  - first:
+      213: -4529379644041655398
+    second: effireDG_5
+  - first:
+      213: 1044986852671156780
+    second: effireDG_6
+  - first:
+      213: -2607960038782658351
+    second: effireDG_7
+  - first:
+      213: 2330812014152164541
+    second: effireDG_8
+  - first:
+      213: -6791811945478492074
+    second: effireDG_9
+  - first:
+      213: 6407491909922437013
+    second: effireDG_10
+  - first:
+      213: 3710970212547487701
+    second: effireDG_11
+  - first:
+      213: 6692140350126803342
+    second: effireDG_12
+  - first:
+      213: 1655117626678433601
+    second: effireDG_13
+  - first:
+      213: 3003069778759919564
+    second: effireDG_14
+  - first:
+      213: -8142712039136602519
+    second: effireDG_15
+  - first:
+      213: 8229204871797573991
+    second: effireDG_16
+  - first:
+      213: 6091516926014889896
+    second: effireDG_17
+  - first:
+      213: -8196430376004896444
+    second: effireDG_18
+  - first:
+      213: 3548323479322760733
+    second: effireDG_19
+  - first:
+      213: -6458439045175905421
+    second: effireDG_20
+  - first:
+      213: -282299108890296147
+    second: effireDG_21
+  - first:
+      213: 481194372457576627
+    second: effireDG_22
+  - first:
+      213: 1548382625326252429
+    second: effireDG_23
+  - first:
+      213: 2180863675635508871
+    second: effireDG_24
+  - first:
+      213: 4589127000983289371
+    second: effireDG_25
+  - first:
+      213: -887401598039421857
+    second: effireDG_26
+  - first:
+      213: -7592383999159980288
+    second: effireDG_27
+  - first:
+      213: -1270564210234910879
+    second: effireDG_28
+  - first:
+      213: 1625974069011855156
+    second: effireDG_29
+  - first:
+      213: -8216645298516171561
+    second: effireDG_30
+  - first:
+      213: 6859317087816433241
+    second: effireDG_31
+  - first:
+      213: 3253496331446661975
+    second: effireDG_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: effireDG_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 243
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5807485cb12d6d0800000000000000
+      internalID: -2967278669339261530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effireDG_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 243
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724fcb6393ba92f10800000000000000
+      internalID: 2245514151440741415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effireDG_2
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 0
+        width: 243
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ac819767c385bd0800000000000000
+      internalID: -2641294701917320670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effireDG_3
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 0
+        width: 243
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51c036de0c596d40800000000000000
+      internalID: 5578090832267886943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effireDG_4
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 0
+        width: 243
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfba20787546404f0800000000000000
+      internalID: -863454901458260996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effireDG_5
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 0
+        width: 243
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b030026396421c0800000000000000
+      internalID: -4529379644041655398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effireDG_6
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 0
+        width: 243
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22fa64810a808e00800000000000000
+      internalID: 1044986852671156780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effireDG_7
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 0
+        width: 243
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d812fb892aaecbd0800000000000000
+      internalID: -2607960038782658351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effireDG_8
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 0
+        width: 243
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4a0cd7d25b85020800000000000000
+      internalID: 2330812014152164541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effireDG_9
+      rect:
+        serializedVersion: 2
+        x: 2187
+        y: 0
+        width: 243
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 650ff782503aeb1a0800000000000000
+      internalID: -6791811945478492074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effireDG_10
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 0
+        width: 243
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597bd1891fbfbe850800000000000000
+      internalID: 6407491909922437013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effireDG_11
+      rect:
+        serializedVersion: 2
+        x: 2673
+        y: 0
+        width: 243
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7e2fa2fb3008330800000000000000
+      internalID: 3710970212547487701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: effireDG_12
+      rect:
+        serializedVersion: 2
+        x: 2916
+        y: 0
+        width: 243
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89cd5421324fdc50800000000000000
+      internalID: 6692140350126803342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
